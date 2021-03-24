@@ -8,7 +8,7 @@ LH SELF-BOT V1.0 2019/07/27
 from linepy import *
 import time, json, codecs
 
-token = ''
+token = 'u0dedae6e6ff204f52f2e4a096630ea82'
 
 try:
     BOT = LINE(token)
